@@ -1,50 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="wand" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 151.3 147.5" style="enable-background:new 0 0 151.3 147.5;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{fill:#DF4598;}
 	.st2{fill:#FFFFFF;}
-	.st3{display:none;}
-	.st4{display:inline;fill:none;}
-	.st5{display:inline;fill:#DF4598;}
-	.st6{display:inline;fill:#FFFFFF;}
-	.st7{display:inline;fill:#A3A3A3;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st8{display:inline;fill:#8C361D;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st9{display:inline;fill:#FFCD34;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st10{display:inline;fill:#FFCD34;stroke:#000000;stroke-miterlimit:10;}
-	.st11{display:inline;fill:#ED1C24;}
-	.st12{display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st13{display:inline;fill:#A3A3A3;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st14{fill:#636768;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st15{fill:#898989;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st16{fill:url(#Rod_1_);stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st17{fill:#F4D80E;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st18{fill:#A3A3A3;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st19{fill:#28BEEF;}
-	.st20{fill:#92D7EA;}
-	.st21{fill:none;stroke:#92D7EA;stroke-width:2;stroke-miterlimit:10;}
-	.st22{fill:#CB2026;stroke:#EB2C24;stroke-width:3;stroke-miterlimit:10;}
-	.st23{fill:#EB2C24;stroke:#EB2C24;stroke-width:3;stroke-miterlimit:10;}
-	.st24{fill:#E8E62A;}
-	.st25{fill:#8C361D;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st26{fill:#FFCD34;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st27{fill:#CB2026;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st28{fill:#F7EC13;}
-	.st29{fill:#FFCD34;stroke:#000000;stroke-miterlimit:10;}
-	.st30{fill:#ED1C24;}
-	.st31{display:inline;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st32{display:inline;fill:#8C361D;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st33{display:inline;fill:#ED1C24;stroke:#EF4136;stroke-width:2;stroke-miterlimit:10;}
-	.st34{display:inline;fill:#F9ED32;}
-	.st35{display:inline;fill:#006838;stroke:#8DC63F;stroke-width:2;stroke-miterlimit:10;}
-	.st36{display:inline;fill:#A3A3A3;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st37{display:inline;stroke:#000000;stroke-miterlimit:10;}
-	.st38{display:inline;}
-	.st39{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:url(#Rod_1_);stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:#F4D80E;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
 </style>
-<pattern  x="-510.3" y="-101.9" width="154" height="120.1" patternUnits="userSpaceOnUse" id="Unnamed_Pattern" viewBox="84.8 -209.8 154 120.1" style="overflow:visible;">
+<pattern  x="-429.7" y="-306.7" width="154" height="120.1" patternUnits="userSpaceOnUse" id="Unnamed_Pattern" viewBox="84.8 -209.8 154 120.1" style="overflow:visible;">
 	<g>
 		<rect x="84.8" y="-209.8" class="st0" width="154" height="120.1"/>
 		<polygon class="st1" points="169.5,-21.4 148.3,0 0,-149.7 21.2,-171 		"/>
@@ -58,200 +23,10 @@
 		<polygon class="st1" points="303.7,-156.8 282.6,-135.5 134.2,-285.1 155.4,-306.5 		"/>
 	</g>
 </pattern>
-<g id="Swatch" class="st3">
-	<rect x="12.5" y="28.2" class="st4" width="154" height="120.1"/>
-	<polygon class="st5" points="97.2,216.7 76.1,238.1 -72.3,88.4 -51.1,67 	"/>
-	<polygon class="st6" points="113.9,199.9 92.7,221.3 -55.6,71.6 -34.5,50.2 	"/>
-	<polygon class="st6" points="150.7,162.7 129.5,184.1 -18.8,34.4 2.4,13 	"/>
-	<polygon class="st6" points="185.8,127.3 164.6,148.7 16.3,-1 37.5,-22.4 	"/>
-	<polygon class="st6" points="214.2,98.6 193.1,120 44.7,-29.7 65.9,-51 	"/>
-	<polygon class="st5" points="126.4,177.3 105.2,198.7 -38.2,54 -17,32.6 	"/>
-	<polygon class="st5" points="164.9,148.4 143.8,169.7 -4.6,20.1 16.6,-1.3 	"/>
-	<polygon class="st5" points="198.6,114.4 177.5,135.7 29.1,-13.9 50.3,-35.3 	"/>
-	<polygon class="st5" points="231.5,81.2 210.3,102.6 62,-47.1 83.1,-68.4 	"/>
-</g>
-<g id="Sword_Icon" class="st3">
-	<polygon id="Blade" class="st7" points="-223.2,-32.3 -265.1,-22.1 -353.8,76.5 -332,98.4 -233.4,8.2 	"/>
-	<path id="Handle" class="st8" d="M-368.5,93.2l19.5,19.5l-36.7,36.7c-2.3,2.3-6,2.3-8.3,0l-11.3-11.3c-2.3-2.3-2.3-6,0-8.3
-		L-368.5,93.2z"/>
-	<path id="Pommel" class="st9" d="M-383.6,147.4c0,0-3.6,17.6-17.6,17.6c-11.8,1-20-12.2-20-20c0.8-12.5,18.1-17.1,18.1-17.1
-		L-383.6,147.4z"/>
-	<path id="Hilt" class="st8" d="M-370.4,44.2c1.6-2.8,5.8-1.7,5.9,1.5c0.2,9.8,4.3,24.4,21.3,41.4c18.7,18.7,34.9,22,44.7,21.7
-		c2.6-0.1,3.6,3.2,1.5,4.6c-13.2,8.3-39.3,18.6-64.8-6.9C-385.9,82.4-378.3,58-370.4,44.2z"/>
-	<circle id="Bezzel" class="st10" cx="-352.2" cy="96" r="6.5"/>
-	<circle id="Gem" class="st11" cx="-352.2" cy="96" r="3.4"/>
-	<polyline id="Sword_Edge" class="st12" points="-233.4,8.2 -255.2,-0.9 -265.1,-22.1 	"/>
-	<line id="Sword_Edge_2" class="st13" x1="-255.2" y1="-0.9" x2="-343.2" y2="87.1"/>
-</g>
-<g id="Shield_Icon">
-	<path id="outerRim" class="st14" d="M-110-24.9l-68.6,41c0,0-17,99.8,68.6,147.4c0,0,80.5-36.5,68.7-147.4L-110-24.9z"/>
-	<path id="innerRim" class="st15" d="M-110-7.1l-57.3,34.2c0,0-14.2,83.4,57.3,123.1c0,0,67.3-30.5,57.4-123.1L-110-7.1z"/>
-</g>
-<g id="Wand_Icon">
-	<pattern  id="Rod_1_" xlink:href="#Unnamed_Pattern" patternTransform="matrix(0.7071 0.7071 -0.7071 0.7071 -7564.125 2899.408)">
-	</pattern>
-	<path id="Rod" class="st16" d="M8.1,144.1l-4.6-4.6c-2.7-2.7-2.7-7,0.1-9.7L87,51.9l11.6,11.6L17.8,144
-		C15.2,146.7,10.8,146.7,8.1,144.1z"/>
-	<polygon id="Star" class="st17" points="138.4,12.7 123.3,42.5 147,66.2 113.9,61 98.8,90.9 93.5,57.8 60.4,52.6 90.2,37.4 
-		84.9,4.3 108.6,27.9 	"/>
-</g>
-<g id="Dagger_Icon">
-	<path id="Blade1" class="st18" d="M-322.2,263l-61,61l-54,54l10.7,10.7l61.6-61.6C-365,327.2-321.3,284.8-322.2,263z"/>
-	
-		<rect id="Hilt1" x="-391.6" y="333.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -358.8702 -172.3973)" class="st14" width="8.2" height="26.4"/>
-	
-		<rect id="Handle1" x="-420.7" y="338.2" transform="matrix(0.7071 0.7071 -0.7071 0.7071 136.8557 398.9659)" class="st14" width="15.2" height="53"/>
-	<path id="Blade2" class="st18" d="M-314.5,303.8l-52.3,52.3l-46.3,46.3l9.2,9.2l52.7-52.7C-351.1,358.8-313.7,322.5-314.5,303.8z"
-		/>
-	
-		<rect id="Hilt2" x="-373.9" y="364.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -374.1837 -151.857)" class="st14" width="7" height="22.6"/>
-	
-		<rect id="Handle2" x="-398.8" y="368.2" transform="matrix(0.7071 0.7071 -0.7071 0.7071 161.4895 391.9202)" class="st14" width="13" height="45.4"/>
-</g>
-<g id="Two_Spells_Icon">
-	<path id="iceInnerColour" class="st19" d="M-207.9,301.2c0,0-9.6-22.2,14.4-14.4c13.6,4.4,24.8,6.5,32.1,7.6
-		c5.1,0.7,9.4,4.2,11.2,9c2,5.4,5.4,12.5,10.6,17.7c9.8,9.8,11.4,32.6,11.4,32.6s4.3,12.2,15.6,19s1.3,10.9,1.3,10.9
-		s-13.4,0.9-23.2-9.2s-26.3-9.8-26.3-9.8s-12.5-4.7-17.8-17.8c-3.3-8.2-11.2-13.5-16.6-16.3c-3.6-1.8-6.3-5.1-7.3-9L-207.9,301.2z"
-		/>
-	<g id="lineArt">
-		<g>
-			<g>
-				<path class="st19" d="M-201.7,315.8c7.1,1.4,14.4,2,21.2,4.3c6.8,2.4,13.4,6.9,15.9,13.7c1,2.8,1.3,5.8,2.3,8.5
-					c2.6,6.8,9.5,11,16.4,13.6"/>
-				<g>
-					<path class="st19" d="M-202.4,318.2c12.3,2.4,30.8,2.9,35.6,17.2c1.9,5.5,2.4,10.4,6.6,14.8c3.7,3.9,8.6,6.3,13.6,8.3
-						c3,1.2,4.3-3.6,1.3-4.8c-6.5-2.6-13-6.4-15.2-13.5c-1.7-5.5-2.5-10.2-6.6-14.5c-8.8-9.2-22.2-9.9-34-12.1
-						C-204.2,312.7-205.6,317.6-202.4,318.2L-202.4,318.2z"/>
-				</g>
-			</g>
-			<g>
-				<path class="st19" d="M-158.1,335.6c7.1,5.1,14.4,10,21.8,14.6c2.7,1.7,5.5,3.3,7.9,5.5"/>
-				<g>
-					<path class="st19" d="M-159.4,337.8c4.8,3.5,9.7,6.8,14.7,10c4.8,3.1,10.1,5.9,14.5,9.6c2.4,2.1,6-1.5,3.5-3.5
-						c-9.2-7.8-20.4-13.4-30.2-20.4C-159.5,331.6-162,335.9-159.4,337.8L-159.4,337.8z"/>
-				</g>
-			</g>
-			<g>
-				<path class="st19" d="M-142.6,362.2c-0.2,1.8,0.4,3.7,1.5,5.1"/>
-				<g>
-					<path class="st19" d="M-145.1,362.2c-0.2,2.2,0.5,4.5,1.8,6.3c0.8,1.1,2.2,1.6,3.4,0.9c1.1-0.6,1.7-2.3,0.9-3.4
-						c-0.9-1.2-1.3-2.3-1.2-3.8c0.1-1.3-1.2-2.5-2.5-2.5C-144,359.7-145,360.8-145.1,362.2L-145.1,362.2z"/>
-				</g>
-			</g>
-			<g>
-				<path class="st19" d="M-194.9,296.6c3.1,2.9,6.2,5.8,9.9,8c3.6,2.2,7.8,3.7,12.1,3.3c3.7-0.3,7.1-1.9,10.3-3.6"/>
-				<g>
-					<path class="st19" d="M-196.6,298.4c5.1,4.8,10.6,9.8,17.5,11.5c6.4,1.6,12.1-0.3,17.8-3.4c2.8-1.5,0.3-5.8-2.5-4.3
-						c-4.9,2.7-9.9,4.4-15.4,2.4c-5.4-1.9-9.7-5.9-13.8-9.8C-195.4,292.6-199,296.2-196.6,298.4L-196.6,298.4z"/>
-				</g>
-			</g>
-		</g>
-		<g>
-			<g>
-				<g>
-					<path class="st20" d="M-202.4,318.2c12.3,2.4,30.8,2.9,35.6,17.2c1.9,5.5,2.4,10.4,6.6,14.8c3.7,3.9,8.6,6.3,13.6,8.3
-						c3,1.2,4.3-3.6,1.3-4.8c-6.5-2.6-13-6.4-15.2-13.5c-1.7-5.5-2.5-10.2-6.6-14.5c-8.8-9.2-22.2-9.9-34-12.1
-						C-204.2,312.7-205.6,317.6-202.4,318.2L-202.4,318.2z"/>
-				</g>
-			</g>
-			<g>
-				<g>
-					<path class="st20" d="M-159.4,337.8c4.8,3.5,9.7,6.8,14.7,10c4.8,3.1,10.1,5.9,14.5,9.6c2.4,2.1,6-1.5,3.5-3.5
-						c-9.2-7.8-20.4-13.4-30.2-20.4C-159.5,331.6-162,335.9-159.4,337.8L-159.4,337.8z"/>
-				</g>
-			</g>
-			<g>
-				<g>
-					<path class="st20" d="M-145.1,362.2c-0.2,2.2,0.5,4.5,1.8,6.3c0.8,1.1,2.2,1.6,3.4,0.9c1.1-0.6,1.7-2.3,0.9-3.4
-						c-0.9-1.2-1.3-2.3-1.2-3.8c0.1-1.3-1.2-2.5-2.5-2.5C-144,359.7-145,360.8-145.1,362.2L-145.1,362.2z"/>
-				</g>
-			</g>
-			<g>
-				<g>
-					<path class="st20" d="M-196.6,298.4c5.1,4.8,10.6,9.8,17.5,11.5c6.4,1.6,12.1-0.3,17.8-3.4c2.8-1.5,0.3-5.8-2.5-4.3
-						c-4.9,2.7-9.9,4.4-15.4,2.4c-5.4-1.9-9.7-5.9-13.8-9.8C-195.4,292.6-199,296.2-196.6,298.4L-196.6,298.4z"/>
-				</g>
-			</g>
-		</g>
-	</g>
-	<path id="iceLineArt_1_" class="st21" d="M-207.9,301.2c0,0-9.6-22.2,14.4-14.4c13.6,4.4,24.8,6.5,32.1,7.6c5.1,0.7,9.4,4.2,11.2,9
-		c2,5.4,5.4,12.5,10.6,17.7c9.8,9.8,11.4,32.6,11.4,32.6s4.3,12.2,15.6,19s1.3,10.9,1.3,10.9s-13.4,0.9-23.2-9.2s-26.3-9.8-26.3-9.8
-		s-12.5-4.7-17.8-17.8c-3.3-8.2-11.2-13.5-16.6-16.3c-3.6-1.8-6.3-5.1-7.3-9L-207.9,301.2z"/>
-	<path id="outFlame" class="st22" d="M-104.6,377.1c0,0,26.1-3.4,26.1-26.1c0,0,0-11,11.5-22.3c11.4-11.3,6-25.1,6-25.1
-		s-6,16.2-12,11.4c-6-4.8,1.8-25.9,9.3-31.9c7.5-6-0.3-27.7-4.5-34.9c0,0-1.8,31.3-19.2,45.1c-17.4,13.8-13.5-21.1,5.3-27.4
-		c0,0-55.2,7.3-48.6,85C-130.8,350.9-130.8,374.2-104.6,377.1z"/>
-	<circle id="fireBall" class="st23" cx="-104.9" cy="351.3" r="24"/>
-	<circle id="innFlame" class="st24" cx="-99.5" cy="360.2" r="17.1"/>
-</g>
-<g id="Spell__x26__Sword_Icon">
-	<path id="Handle_1_" class="st25" d="M28.5,334.6l19.5,19.5l-36.7,36.7c-2.3,2.3-6,2.3-8.3,0l-11.3-11.3c-2.3-2.3-2.3-6,0-8.3
-		L28.5,334.6z"/>
-	<path id="Pommel_1_" class="st26" d="M13.4,388.8c0,0-3.6,17.6-17.6,17.6c-11.8,1-20-12.2-20-20c0.8-12.5,18.1-17.1,18.1-17.1
-		L13.4,388.8z"/>
-	<path id="mainFlame" class="st27" d="M65.9,348.9c0,0,8.9-9.2,10.3-14.9c1-4.5,11.9-8.9,16.3-10.5c1.4-0.5,2.7-1.3,3.9-2.4
-		c3.2-3,9.6-9.6,12.1-17.9c3.4-11.2,27.9-18.9,27.9-18.9s25.7-5.6,30.3-18.8c4.6-13.2,13-52.9-19-76.6c0,0,12,27.2-0.7,30.1
-		c-12.7,2.9-15.1-12.3-15.1-12.3s-6.4,14.6,0,22.5c6.4,7.9-28.1,10.5-23.4-21.2c0,0-23.2,21.1-9.9,43.6s-16.5,12.6-16.5,12.6
-		s-23.8-9.9-5.9-50.2c0,0-38.6,58-2.5,79.9c0,0,9.4,16.4-12,11.5c-2-0.5-4.2-0.1-6,1c-3,1.9-7.6,3.5-8.5-4.7
-		c-0.9-8.6-16.4,10.1-8.9,20.6C45.8,333,65.9,348.9,65.9,348.9z"/>
-	<path id="flameAdditive" class="st28" d="M163.5,244.1c1.3,2.1,1.7,4.6,1.5,7c-0.9,7.7-2.1,27.3-31.4,30
-		c-13.1,1.2-26.9,12.3-30.4,22.8c0,0-0.8,13.4-22.4,20.9c0,0-9.9,6.3-11.7,16.2c-1.5,7.9-22.2-13.3-22.2-13.3s35.7-8.3,37-16.8
-		c1.3-8.6,11.6-34.4,37-43.6s30.1-19.5,30.1-19.5S158.5,236.1,163.5,244.1z"/>
-	<path id="Hilt_1_" class="st25" d="M26.6,285.5c1.6-2.8,5.8-1.7,5.9,1.5c0.2,9.8,4.3,24.4,21.3,41.4c18.7,18.7,34.9,22,44.7,21.7
-		c2.6-0.1,3.6,3.2,1.5,4.6c-13.2,8.3-39.3,18.6-64.8-6.9C11.1,323.8,18.7,299.3,26.6,285.5z"/>
-	<circle id="Bezzel_1_" class="st29" cx="44.8" cy="337.4" r="6.5"/>
-	<circle id="Gem_1_" class="st30" cx="44.8" cy="337.4" r="3.4"/>
-</g>
-<g id="Bow" class="st3">
-	<path id="lowerBow" class="st8" d="M-443.6-40.8c0,0,24.1,31.4,54.9,20.1S-331,26.3-331,26.3l9.9-6.2c0,0-31.9-70.6-73.8-53.8
-		C-394.9-33.8-409.8-22.8-443.6-40.8z"/>
-	<path id="upperBow" class="st8" d="M-332.6,153.7c0,0-14.5-36.9,11.1-57.4s-10.3-71.4-10.3-71.4l10.4-7.5c0,0,44,63.8,8,91
-		C-313.5,108.4-330.6,115.5-332.6,153.7z"/>
-	
-		<rect id="grip" x="-331.1" y="8.3" transform="matrix(0.8576 -0.5143 0.5143 0.8576 -59.4686 -162.9107)" class="st31" width="14.2" height="35.3"/>
-	<line id="bowString" class="st32" x1="-440.1" y1="-39.2" x2="-331.8" y2="148.6"/>
-	<polygon id="arrowShaft" class="st31" points="-388.6,48.5 -390.5,45.2 -274.6,-24.5 -272.7,-21.2 	"/>
-	<path id="Arrow_Head" class="st13" d="M-283.5-24.2c2.8,0.4,9,2.4,6.1,11c-0.1,0.3,0.3,0.4,0.5,0.2l18.2-18.7l-24.7,7.1
-		C-283.7-24.7-283.8-24.3-283.5-24.2z"/>
-	<polygon id="featherLower" class="st31" points="-388.6,48.5 -394.8,57.9 -369.7,42.7 -366.3,35.1 	"/>
-	<polygon id="featherUpper" class="st31" points="-392.1,45 -403.1,46 -378,30.9 -369.9,31.6 	"/>
-</g>
-<g id="Spell_Bow" class="st3">
-	<path id="lowerBow_1_" class="st8" d="M-223.8-44.3c0,0,24.1,31.4,54.9,20.1s57.7,46.9,57.7,46.9l9.9-6.2c0,0-31.9-70.6-73.8-53.8
-		C-175.1-37.3-189.9-26.3-223.8-44.3z"/>
-	<path id="upperBow_1_" class="st8" d="M-112.8,150.2c0,0-14.5-36.9,11.1-57.4s-10.3-71.4-10.3-71.4l10.4-7.5c0,0,44,63.8,8,91
-		C-93.6,104.9-110.7,112-112.8,150.2z"/>
-	
-		<rect id="grip_1_" x="-111.2" y="4.8" transform="matrix(0.8576 -0.5143 0.5143 0.8576 -26.3661 -50.3443)" class="st31" width="14.2" height="35.3"/>
-	<line id="bowString_1_" class="st32" x1="-220.2" y1="-42.7" x2="-111.9" y2="145.1"/>
-	<polygon id="arrowShaft_1_" class="st31" points="-168.7,45 -170.6,41.7 -54.7,-28 -52.9,-24.7 	"/>
-	<polygon id="featherLower_1_" class="st31" points="-168.7,45 -175,54.3 -149.9,39.2 -146.5,31.6 	"/>
-	<polygon id="featherUpper_1_" class="st31" points="-172.3,41.5 -183.3,42.5 -158.1,27.4 -150,28.1 	"/>
-	<circle id="fireOrb" class="st33" cx="-49.8" cy="-29.4" r="8.8"/>
-	<circle id="orbGlow" class="st34" cx="-44.2" cy="-28" r="3.8"/>
-</g>
-<g id="Evil_Staff" class="st3">
-	<circle class="st35" cx="117.5" cy="39.5" r="18.2"/>
-	<circle class="st35" cx="129" cy="41.4" r="5.2"/>
-	<path class="st32" d="M118.6,15.8c0,0-5.9,3.7-10.4,3.6s-15.4,5.8-16.7,16S95,46.6,77.3,59.1c-0.9,0.6-1.8,1.3-2.7,2
-		c-1.5,1.3-3.1,2.6-4.6,4.1c-15.3,14.7-29.7,39.2-30.4,40c-0.9,0.9-20.4,27.9-45,32.8c0,0,45.7-1.8,66.5-38.3s37.9-40.1,37.9-40.1
-		s13.1,5,22.9,2.4c1.4-0.4,2.6-1,3.8-1.9c1.4-1,3.9-2.5,6.5-2.4c0,0-11-6.2-15-3.5s-14.1-6.7-5.8-8.2c8.3-1.5,8.6-9.3,8.6-9.3
-		s-5.4,5.3-10.6,2.3c-5.2-3.1-3-9.8,4.2-12C120.6,24.9,118.6,15.8,118.6,15.8z"/>
-</g>
-<g id="Palte_Helm" class="st3">
-	<path id="Helm" class="st36" d="M-434.7,293.3v58.2c0,0-2.6,36.9,55.5,41.1c0,0,47.8-3.7,54.1-33.7l0.7-65.6
-		c0,0-8.9-39.6-54.8-47.5C-379.2,245.8-421.1,249.8-434.7,293.3z"/>
-	<path id="Visor" class="st37" d="M-339.1,305.6v13c0,0-40.8,38.9-79.7,0v-13C-418.8,305.6-379,335.9-339.1,305.6z"/>
-	<g id="Left" class="st38">
-		<circle id="holeMiddleLeft" cx="-397.9" cy="357" r="3.9"/>
-		<circle id="holeBottomLeft" cx="-410.7" cy="366.5" r="3.9"/>
-		<circle id="holeTopLeft" cx="-410.7" cy="347.4" r="3.9"/>
-	</g>
-	<g id="Left_1_" class="st38">
-		<circle id="holeMiddleLeft_1_" cx="-361.7" cy="357" r="3.9"/>
-		<circle id="holeBottomLeft_1_" cx="-348.9" cy="366.5" r="3.9"/>
-		<circle id="holeTopLeft_1_" cx="-348.9" cy="347.4" r="3.9"/>
-	</g>
-	<line id="bottomLineArt" class="st39" x1="-379.2" y1="392.5" x2="-379.2" y2="361.7"/>
-	<line id="topLineart" class="st39" x1="-379.2" y1="245.8" x2="-379.2" y2="267.3"/>
-</g>
+<pattern  id="Rod_1_" xlink:href="#Unnamed_Pattern" patternTransform="matrix(0.7071 0.7071 -0.7071 0.7071 -7438.6299 3136.3066)">
+</pattern>
+<path id="Rod" class="st3" d="M8.1,144.1l-4.6-4.6c-2.7-2.7-2.7-7,0.1-9.7L87,51.9l11.6,11.6L17.8,144
+	C15.2,146.7,10.8,146.7,8.1,144.1z"/>
+<polygon id="Star" class="st4" points="138.4,12.7 123.3,42.5 147,66.2 113.9,61 98.8,90.9 93.5,57.8 60.4,52.6 90.2,37.4 84.9,4.3 
+	108.6,27.9 "/>
 </svg>
