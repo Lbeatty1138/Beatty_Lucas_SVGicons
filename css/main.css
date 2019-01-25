@@ -1,0 +1,106 @@
+.hidden{
+	display: none;
+}
+
+.fill{
+	opacity: 0.7;
+}
+
+#logo{
+	width: 10%;
+	height: 10%;
+}
+
+.iconSize{
+	width: 15%;
+	margin-right: 20px;
+	margin-top: 15px;
+	margin-left: 20px;
+
+}
+
+#mainNav{
+	font-family: 'Fondamento', cursive;
+	background-color: black;
+	height: 100px;
+}
+
+#mainNav ul{
+	display: flex;
+	flex-direction: row;
+}
+
+#mainNav ul li a{
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	marker-top: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	transition: all .5s ease;
+}
+
+#mainNav ul li a:hover{
+	background-color: grey;
+	color: #333;
+	border-radius: 10px;
+}
+
+
+.iconBanner{
+	margin-left: auto;
+	background-color: darkgrey;
+	margin-top: 10px;
+	height: 55px;
+	width: 430px;
+	border: 5px;
+	padding-top: 10px;
+	padding-left: 10px;
+	font-family: 'Fondamento', cursive;
+	font-size: 40px;
+
+}
+
+#mainFooter	{
+	width: 100%;
+	font-family: 'Fondamento', cursive;
+	background-color: black;
+	height: 50px;
+}
+
+#mainFooter ul{
+	display: flex;
+	flex-direction: row;
+}
+
+#mainFooter ul li a{
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	marker-top: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	transition: all .5s ease;
+}
+
+#mainFooter ul li a:hover{
+	background-color: grey;
+	color: #333;
+	border-radius: 10px;
+}
+
+#siteContainer{
+	height: 810px;
+	background: #c5deea;
+	background: -moz-radial-gradient(center, ellipse cover, #c5deea 0%, #8abbd7 31%, #066dab 100%);
+	background: -webkit-radial-gradient(center, ellipse cover, #c5deea 0%,#8abbd7 31%,#066dab 100%);
+	background: radial-gradient(ellipse at center, #c5deea 0%,#8abbd7 31%,#066dab 100%);
+}
+
+#logo{
+	width: 365px;
+	height: 65px;
+	margin-left: 5px, 10px, 0px, 0px,
+}
+
+
